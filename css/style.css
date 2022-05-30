@@ -63,6 +63,7 @@ body{
     border-radius: 20px;
     background-color: #6AB4F0;
     border: none;
+    cursor: pointer;
 }
 
 .login-forgot{
